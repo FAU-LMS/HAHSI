@@ -1,6 +1,6 @@
 # HAHSI
 
-!!!The paper is submitted to the **Journal of the Optical Society of America A** currently under review!!!
+!!!The paper is submitted to the **Journal of the Optical Society of America A** and currently under review!!!
 
 This repository will contain the code and hyperspectral video data of the following publication:
 ```
