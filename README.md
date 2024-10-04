@@ -13,5 +13,5 @@ This repository will contain the code and hyperspectral video data of the follow
 }
 ```
 
-The full data will be available upon acceptance.
-A small example (100 frames of the scene **tree**) of the hyperspectral video database can be found [here](https://drive.google.com/file/d/1aGtpaoKUQyLYMQysQMftmcD5adpy_dRd/view?usp=drive_link).
+6 out of 10 scenes of the hyperspectral video database are already available [here](https://drive.google.com/drive/folders/1JeH8EE7LCk4SpaPdNQokO1lJO2ze6uud?usp=sharing).
+All scenes will be available upon acceptance.
