@@ -12,14 +12,6 @@ class HyperspectralVideoViewer(QMainWindow):
     signal_frame_changed = pyqtSignal(int)
     signal_load_video = pyqtSignal(str, int, int)
 
-    '''
-    outside2: 500-1000
-    outside3: 200-500
-    sunny: 0-1000
-    pan1: 47-500
-    pan2: 0-500
-    pan3: 30-1000
-    '''
     def __init__(self, parent=None):
         super(HyperspectralVideoViewer, self).__init__(parent)
 
