@@ -13,8 +13,7 @@ This repository will contain the code and hyperspectral video data of the follow
 }
 ```
 
-6 out of 10 scenes of the hyperspectral video database are already available [here](https://drive.google.com/drive/folders/1JeH8EE7LCk4SpaPdNQokO1lJO2ze6uud?usp=sharing).
-All scenes will be available upon acceptance.
+All 10 scenes of the hyperspectral video database are already available [here](https://drive.google.com/drive/folders/1JeH8EE7LCk4SpaPdNQokO1lJO2ze6uud?usp=sharing).
 
 # Hyperspectral Video Viewer
 
