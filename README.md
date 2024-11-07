@@ -1,19 +1,24 @@
 # HAHSI
 
-!!!The paper is submitted to the **Journal of the Optical Society of America A** and currently under review!!!
-The submitted paper can be found on [arXiv](https://arxiv.org/abs/2407.09038).
+This repository provides real-world high-resolution hyperspectral video data recorded by a camera and registered afterwards.
+The paper can be found on [Optica](https://opg.optica.org/josaa/fulltext.cfm?uri=josaa-41-12-2303&id=562685) and [arXiv](https://arxiv.org/abs/2407.09038).
 
-This repository will contain the code and hyperspectral video data of the following publication:
+Please cite the following publication if you use any of the data or code:
 ```
-@article{sippel2024,
-   title={High-Resolution Hyperspectral Video Imaging Using A Hexagonal Camera Array},
-   author={Sippel, Frank and Seiler, Jürgen and Kaup, André},
-   journal={arXiv preprint arXiv:2407.09038},
-   year={2024}
+@article{Sippel:24,
+	author = {Frank Sippel and J\"{u}rgen Seiler and Andr\'{e} Kaup},
+	journal = {J. Opt. Soc. Am. A},
+	number = {12},
+	pages = {2303--2315},
+	publisher = {Optica Publishing Group},
+	title = {High-resolution hyperspectral video imaging using a hexagonal camera array},
+	volume = {41},
+	month = {Dec},
+	year = {2024},
 }
 ```
 
-All 10 scenes of the hyperspectral video database are already available [here](https://drive.google.com/drive/folders/1JeH8EE7LCk4SpaPdNQokO1lJO2ze6uud?usp=sharing).
+All 10 scenes of the hyperspectral video database are available [here](https://drive.google.com/drive/folders/1JeH8EE7LCk4SpaPdNQokO1lJO2ze6uud?usp=sharing).
 
 # Hyperspectral Video Viewer
 
