@@ -18,7 +18,7 @@ Please cite the following publication if you use any of the data or code:
 }
 ```
 
-All 10 scenes of the hyperspectral video database are available [here](https://drive.google.com/drive/folders/1JeH8EE7LCk4SpaPdNQokO1lJO2ze6uud?usp=sharing).
+All 10 scenes of the hyperspectral video database are available [here](https://data.fau.de/public/59/91/336169159/).
 
 # Hyperspectral Video Viewer
 
